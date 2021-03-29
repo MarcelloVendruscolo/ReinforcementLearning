@@ -351,4 +351,9 @@ MigrationBackup/
 
 # Virtual Environment package
 /reinforcementLearning
+
+# Jupyter notebook
 /.ipynb_checkpoints
+
+# Git packages
+/gym-gridworld
