@@ -357,3 +357,4 @@ MigrationBackup/
 
 # Git packages
 /gym-gridworld
+/gym-RLcourse
